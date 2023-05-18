@@ -1,0 +1,120 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.caja1{
+    display: inline;
+    position: absolute;
+    left: 740px;
+    top: 130;
+    }
+.caja2{
+    display: inline;
+    position: absolute;
+    left: 200px;
+    top: 130px;
+    }
+    .caja3{
+        display: inline;
+        position: absolute;
+        left: 380px;
+        top: 130px;
+        }
+        .caja4{
+            display: inline;
+            position: absolute;
+            left: 560px;
+            top: 130px;
+            }
+            .caja5{
+                display: inline;
+                position: absolute;
+                left: 20px;
+                top: 600px;
+                }
+                .caja6{
+                    display: inline;
+                    position: absolute;
+                    right: 1000px;
+                    top: 350px;
+                    }
+                .caja7{
+                    display: inline;
+                    position: absolute;
+                    right: 1200px;
+                    top: 350px;
+                    }
+                    .caja8{
+                        display: inline;
+                        position: absolute;
+                        left: 1280px;
+                        top: 130px;
+                        }
+                        .caja9{
+                            display: inline;
+                            position: absolute;
+                            left: 1000px;
+                            top: 480px;
+                            }
+                            .caja10{
+                                display: inline;
+                                position: absolute;
+                                left: 620px;
+                                top: 430px;
+                                }
+                                .caja11{
+                                    display: inline;
+                                    position: absolute;
+                                    left: 800px;
+                                    top: 480px;
+                                    }
+                                    .caja12{
+                                        display: inline;
+                                        position: absolute;
+                                        left: 1460px;
+                                        top: 130px;
+                                        }
+                                        .caja13{
+                                            display: inline;
+                                            position: absolute;
+                                            right: 1200px;
+                                            top: 700px;
+                                            }
+                                            .caja13{
+                                                display: inline;
+                                                position: absolute;
+                                                left: 1100px;
+                                                top: 130px;
+                                                }
+                                                .caja14{
+                                                    display: inline;
+                                                    position: absolute;
+                                                    left: 20px;
+                                                    top: 380px;
+                                                    }
+                                                    .caja15{
+                                                        display: inline;
+                                                        position: absolute;
+                                                        left: 920px;
+                                                        top: 130px;
+                                                        }
+                                                        .caja16{
+                                                            display: inline;
+                                                            position: absolute;
+                                                            left: 20px;
+                                                            top: 130px;
+                                                            }
+                                                            .caja17{
+                                                                display: inline;
+                                                                position: absolute;
+                                                                right: 1200px;
+                                                                top: 700px;
+                                                                }
+                                                                .caja18{
+                                                                    display: inline;
+                                                                    position: absolute;
+                                                                    right: 1200px;
+                                                                    top: 700px;
+                                                                    }
+
+                    
